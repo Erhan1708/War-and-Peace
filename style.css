@@ -1,0 +1,25 @@
+.content{
+   width: 860px;
+   margin-left: 300px;
+   background-color: gainsboro;
+   padding: 45px;
+}
+.header{
+text-align: center;
+color: #646464;
+}
+.heading{
+   font-size: 70px;
+}
+.heading2{
+   font-size: 40px;
+}
+.heading3{
+   font-size: 20px;
+}
+.heading4{
+   font-size: 18px;
+}
+.article{
+   color: #333;
+}
